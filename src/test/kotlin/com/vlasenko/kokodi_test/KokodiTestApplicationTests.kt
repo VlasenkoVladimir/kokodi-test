@@ -1,0 +1,13 @@
+package com.vlasenko.kokodi_test
+
+import org.junit.jupiter.api.Test
+import org.springframework.boot.test.context.SpringBootTest
+
+@SpringBootTest
+class KokodiTestApplicationTests {
+
+	@Test
+	fun contextLoads() {
+	}
+
+}
