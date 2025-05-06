@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "kokodi-test",
+      "Group": "Servers",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "kokodi-db",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
